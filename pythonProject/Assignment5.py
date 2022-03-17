@@ -2,9 +2,6 @@
 # Name : Inderpreet Singh Minhas
 # Student Id: 400430266
 
-class LoginInfo:
-    def 
-
 class PasswordManagementSystem:
 
     def get_user_info_from_stored_test_data(userId=1,returnLength="false"):
